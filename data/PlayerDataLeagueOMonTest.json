@@ -1,0 +1,32 @@
+{
+    "leagueOMon": [
+        {
+            "leagueOMonID": 6,
+            "defence": 100,
+            "level": 1,
+            "attack": 100,
+            "name": "donny",
+            "health": 100,
+            "speed": 100
+        },
+        {
+            "leagueOMonID": 1,
+            "defence": 100,
+            "level": 1,
+            "attack": 100,
+            "name": "jacob",
+            "health": 100,
+            "speed": 100
+        },
+        {
+            "leagueOMonID": 6,
+            "defence": 100,
+            "level": 1,
+            "attack": 100,
+            "name": "donny",
+            "health": 100,
+            "speed": 100
+        }
+    ],
+    "downList": []
+}
